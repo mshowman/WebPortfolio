@@ -9,7 +9,7 @@ table {
 
 h1 {
     text-align: center;
-    color: green;
+    color: red;
 }
 
 p {
@@ -18,7 +18,7 @@ p {
 }
 
 a {
-    color: crimson;
+    color: red;
 }
 
 .tooltip {
@@ -37,7 +37,7 @@ a {
     padding: 5px 0;
 
     /* Position the tooltip */
-    position: absolute;
+    position: fixed;
     z-index: 1;
 }
 
